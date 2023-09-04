@@ -24,7 +24,10 @@ Since there was an unequal number of ham and spam messages, we used stratified s
 Certain models has a high accuracy score but low f1 score (such as K-NN and Decision Tree). We did not choose those models.
 
 According to our work, the top 3 models with the highest accuracy and f1 scores are as follows:
-i. Stacking Classifier
-ii. SVC (Both Linear and Sigmoid)
-iii. Random Forest Classifier
+
+i. *Stacking Classifier*
+
+ii. *SVC (Both Linear and Sigmoid)*
+
+iii. *Random Forest Classifier*
 
